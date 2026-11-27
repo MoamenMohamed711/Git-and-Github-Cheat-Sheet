@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=230&text=GitHub&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%E2%80%A2%20Collaborate%20%E2%80%A2%20Ship&descAlignY=57" alt="GitHub - Code, Collaborate, Ship" width="100%">
+
+  <br>
+
+  <a href="https://github.com">
+    <img src="https://github.com/github.png?size=200" alt="GitHub logo" width="100">
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%24+git+add+.;%24+git+commit+-m+%22new+feature%22;%24+git+push+origin+main" alt="Typing git commands">
+</div>
+
+
+
 # Basic Git and GitHub Cheat Sheet
 
 ## Learning Resources
